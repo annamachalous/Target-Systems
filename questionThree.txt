@@ -1,0 +1,65 @@
+O código pode ser interpretado como:
+int INDICE = 12, SOMA = 0, K = 1;
+enquanto K < INDICE faça {
+    K = K + 1;
+    SOMA = SOMA + K;
+}
+imprimir(SOMA);
+Análise do código
+Inicialização:
+
+INDICE = 12
+SOMA = 0
+K = 1
+Loop:
+
+O loop executa enquanto K < INDICE (ou seja, enquanto K < 12).
+Iterações:
+
+Primeira iteração:
+K = 1
+K = K + 1 → K = 2
+SOMA = SOMA + K → SOMA = 0 + 2 = 2
+Segunda iteração:
+K = 2
+K = K + 1 → K = 3
+SOMA = SOMA + K → SOMA = 2 + 3 = 5
+Terceira iteração:
+K = 3
+K = K + 1 → K = 4
+SOMA = SOMA + K → SOMA = 5 + 4 = 9
+Quarta iteração:
+K = 4
+K = K + 1 → K = 5
+SOMA = SOMA + K → SOMA = 9 + 5 = 14
+Quinta iteração:
+K = 5
+K = K + 1 → K = 6
+SOMA = SOMA + K → SOMA = 14 + 6 = 20
+Sexta iteração:
+K = 6
+K = K + 1 → K = 7
+SOMA = SOMA + K → SOMA = 20 + 7 = 27
+Sétima iteração:
+K = 7
+K = K + 1 → K = 8
+SOMA = SOMA + K → SOMA = 27 + 8 = 35
+Oitava iteração:
+K = 8
+K = K + 1 → K = 9
+SOMA = SOMA + K → SOMA = 35 + 9 = 44
+Nona iteração:
+K = 9
+K = K + 1 → K = 10
+SOMA = SOMA + K → SOMA = 44 + 10 = 54
+Décima iteração:
+K = 10
+K = K + 1 → K = 11
+SOMA = SOMA + K → SOMA = 54 + 11 = 65
+Décima primeira iteração:
+K = 11
+K = K + 1 → K = 12
+SOMA = SOMA + K → SOMA = 65 + 12 = 77
+Saída do loop: Após isso, K se torna 12, e o loop termina.
+Resultado
+Ao final do processamento, o valor da variável SOMA será 77.

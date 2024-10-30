@@ -1,0 +1,14 @@
+Vamos chamá-los de Interruptor A, Interruptor B e Interruptor C.
+Passo 1: Primeira Ida
+Ligue o Interruptor A e deixe-o ligado por cerca de 10 minutos.
+Após 10 minutos, desligue o Interruptor A e ligue o Interruptor B. Deixe o Interruptor C desligado.
+Passo 2: Segunda Ida
+Vá até a sala das lâmpadas e observe as três lâmpadas.
+Identificação das lâmpadas
+Lâmpada que está acesa: Esta lâmpada é controlada pelo Interruptor B, porque você a deixou ligada.
+Lâmpada que está apagada, mas quente: Esta lâmpada é controlada pelo Interruptor A, pois foi ligada anteriormente e ainda mantém calor.
+Lâmpada que está apagada e fria: Esta lâmpada é controlada pelo Interruptor C, que permaneceu desligado durante todo o processo.
+Resumo:
+Lâmpada acesa: Interruptor B
+Lâmpada apagada e quente: Interruptor A
+Lâmpada apagada e fria: Interruptor C
